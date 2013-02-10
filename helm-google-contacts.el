@@ -5,6 +5,7 @@
 
 ;; Author: Yuta Yamada <cokesboy"at"gmail.com>
 ;; Version: 0.0.1
+;; Package-Requires: ((helm "20130208.1156"))
 ;; Keywords: google, contact
 
 ;;; License:
